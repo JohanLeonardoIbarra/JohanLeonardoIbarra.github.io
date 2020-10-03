@@ -2,6 +2,12 @@
 body{
     margin-top: 10%;
 }
+.footer{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-size: small;
+}
 @media screen and (max-width: 750px)
 {
     body{
